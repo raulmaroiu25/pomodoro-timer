@@ -15,3 +15,4 @@ Are o interfață animată cu o roșie stilizată care pulsează și oferă un m
 
 ---
 
+![Pomodoro Timer Animation](pomodoro_tomato_pulse.gif)
